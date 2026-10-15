@@ -1,0 +1,6 @@
+{
+  "name": "NexusWork AI - Workplace Task Assistant",
+  "description": "AI-powered workplace assistant for executive email generation, meeting intelligence summarization, and strategic task planning with ethical guardrails and prompt engineering controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
